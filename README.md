@@ -4,4 +4,9 @@ Work Documenting topology created by Abhishek Shinde
 * Machine Learning workflows.
 * GNNs and GCNNs
 * Neo4J Workflows
-* Pratt Truss design 
+
+Applications: 
+
+* Pratt Truss Design
+* 3 storey structure Design(Frame System)
+* Massing Studies
