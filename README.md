@@ -1,8 +1,7 @@
-Work Documenting topologicPy created by Abhishek Shinde
-
-Theres is custom environment created on my machine called as topologicPyAS
+Work Documenting topology created by Abhishek Shinde
 
 * Grasshopper workflows
 * Machine Learning workflows.
 * GNNs and GCNNs
 * Neo4J Workflows
+* Pratt Truss design 
